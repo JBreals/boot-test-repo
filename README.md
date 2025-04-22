@@ -12,9 +12,9 @@ See demo [Here](https://www.google.com)
 ## How to start
 
 ```shell
-$ git clone addr
-$ cd my boot-test-repo
-$ python main.py
+$git clone addr
+$cd my boot-test-repo
+$python main.py
 ```
 
 ## Installation
@@ -32,4 +32,4 @@ for _ in range(3):
 
 ## Credit
 
-- @JBreals
+- @JB
